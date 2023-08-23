@@ -1,0 +1,18 @@
+name: google_routes_flutter
+description: A dart interface for the Google Maps Routes API, which can be used to request directions between two or more locations.
+version: 1.0.0
+repository: https://github.com/Haidar0096/google_routes_flutter
+
+environment:
+  sdk: ^3.0.6
+
+# Add regular dependencies here.
+dependencies:
+  http: ^1.1.0
+  json_annotation: ^4.8.1
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
+  build_runner: ^2.4.6
+  json_serializable: ^6.7.1
